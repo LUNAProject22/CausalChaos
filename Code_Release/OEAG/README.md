@@ -1,0 +1,1 @@
+This directory contains code related to open-ended answer generation (OEAG). Additionally, we make use of https://github.com/salaniz/pycocoevalcap. We thank the authors; please also consider citing their work.
