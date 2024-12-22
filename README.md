@@ -1,7 +1,10 @@
 # CausalChaos! Dataset for Video Question Answering - [NeurIPS 2024]
 [CausalChaos! Dataset for Comprehensive Causal Action Question Answering Over Longer Causal Chains Grounded in Dynamic Visual Scenes](https://arxiv.org/abs/2404.01299)
 
-
+## Coming Soon...
+1. [Dec 23, 2024] Pre-computed Visual features...also feel free to request any particular type of features you might be interested in by emailing us or opening issue/pull request...
+2. [Dec 23, 2024] Synchronization frame numbers to allow user visual feature extraction
+   
 ## Contents
 We provide the following:
 1. Dataset
